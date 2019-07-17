@@ -1,0 +1,58 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "username": "nurma",
+            "password": "12345"
+        },
+        {
+            "id": 2,
+            "username": "silvi",
+            "password": "12345"
+        }    
+    ],
+    "menu": [
+        {
+            "id": 1,
+            "gambar": "https://faktualnews.co/images/2019/02/apel-1.jpg",
+            "judul": "Apel Merah",
+            "harga": 7000
+        },
+        {
+            "id": 2,
+            "gambar": "https://monysaga.com/wp-content/uploads/2018/10/mangga-e1490588581204.jpg",
+            "judul": "Mangga",
+            "harga": 10000
+        },
+        {
+            "id": 3,
+            "gambar": "http://warungbuahmbaksri.blogspot.com/2014/01/manfaat-buah-strawberry.html",
+            "judul": "Strawberry",
+            "harga": 5000
+        },
+        {
+            "id": 4,
+            "gambar": "https://lockerproject.org/wp-content/uploads/2018/04/buah-nanas.jpg",
+            "judul": "Nanas",
+            "harga": 8000
+        },
+        {
+            "id": 5,
+            "gambar": "http://cookingwsheila.com/manfaat-buah-jeruk/",
+            "judul": "Jeruk",
+            "harga": 4000
+        },
+        {
+            "id": 6,
+            "gambar": "https://minang-putri.blogspot.com/2016/05/blueberry-asupan-paling-sehat-dimuka.html",
+            "judul": "Blueberry",
+            "harga": 10000
+        },
+        {
+            "id": 7,
+            "gambar": "https://s.kaskus.id/images/2015/09/05/587068_20150905070421.jpg",
+            "judul": "Semangka",
+            "harga": 7000
+        }
+    ]
+}
